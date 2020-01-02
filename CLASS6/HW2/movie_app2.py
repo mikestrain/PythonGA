@@ -8,6 +8,7 @@ def printMovieTitle():
     print(movie_title)
 
 #used for option 1
+#used for option #100000
 def listSearchResults(movieTitles):
     for movie in movieTitles:
         print("\t",movie)
