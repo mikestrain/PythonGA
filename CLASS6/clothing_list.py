@@ -12,6 +12,7 @@ print("\n")
 
 for element in clothing_set:
     print(element)
+    #Hello, this is a comment?
 
 print(clothing_list[0])
 # print(clothing_set[0]) #this doesn't work
