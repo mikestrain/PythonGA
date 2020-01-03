@@ -3,6 +3,7 @@ os.system("clear")
 
 
 class Band():
+    
 
     number_of_bands = 0
     known_genres = ["rock","pop","classical"]
