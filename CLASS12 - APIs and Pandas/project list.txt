@@ -1,0 +1,18 @@
+1. moving files for doc control
+
+2. processing shock data
+
+3. emailing myself the weather
+
+4. inventory management
+
+5. birthday reminder list
+
+6. kelly blue book
+
+7. MATAWEB API??
+
+8. MBTA API?
+
+
+HOW TO WORK WITH JUPYTER NOTEBOOK AND VS CODE?????

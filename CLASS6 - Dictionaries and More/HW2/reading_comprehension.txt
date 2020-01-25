@@ -1,0 +1,5 @@
+1. A nested loop is a loop which occurs within another loop (double indent)
+2. A while loop is based on a conditional statement. While that statement is true, the loop continues.
+3. You'd typically use a for loop to iterate a known number of times.
+4. Yes, "for letter in "Sammy": print(letter)"
+5. Yes, a for loop can be nested in a while loop. There's nothing in the while loop that prevents this, except if the condition of the while loop is met and you exit the while loop.

@@ -1,0 +1,7 @@
+Class7HW, Reading Comprehension
+
+1. D
+2. C
+3. A
+4. C
+5. Only if you need to make changes to the original Tuple for some reason.
