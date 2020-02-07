@@ -124,3 +124,9 @@ for u_number in Queue:
     print('\n')
 
 # %% 
+
+# add in functionality for the doc control log (XLSX)
+# add in a cross reference for project number in PDM search?
+# add in an email function
+# add in a document tracking function
+
