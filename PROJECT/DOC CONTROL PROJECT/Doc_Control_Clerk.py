@@ -1,100 +1,81 @@
 
-#%% Imports and intro code
+#%% IMPORTS AND INTRO CODE
+import sys
 import os
 import shutil
-os.system("clear")
+from datetime import datetime
+
+import fEdgeCases # custom module
+import fSendEmail # custom module
+import fPrintLog as f # custom module
+import fReadWriteLog # custom module
+
+dt_string = datetime.now().strftime(r"%Y/%m/%d %H:%M:%S")
+os.system("cls")
 testing_mode = True
+
+f.PrintLog("Today is " + dt_string)
+f.PrintLog("""_______________________________________________\n
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+""")
 
 pDropbox = './1 DOCUMENT DROPBOX'
 pQueue = './2 - DOC CONTROL QUEUE'
 pActive = './3 - ACTIVE FILES'
 pObsolete = './4 - OBSOLETE FILES'
+pDocControlLog = './Document Number Log 20200221.xls'
+pEmailList = './Project_Email_List.txt'
+
+if fReadWriteLog.fDidYouCloseTheLog(pDocControlLog) != True:
+    print("Please close the doc log before running this program...")
+    input("Press any key to exit.")
+    sys.exit()
 
 Q_full_names = os.listdir(pQueue)
 A_folders = os.listdir(pActive)
 O_folders = os.listdir(pObsolete)
 
-print("""
-WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
-Written by Mike Strain on 2/2/2020.
 
- - Meant to check file name formatting, and move files around to appropriate folders.
- - Capitalizes files if they are in lowercase
- 
-""")
+
 input('Press any key to continue...\n')
 
-#%% Setup document names and check for bad part numbers
-print("Checking all document names for bad formatting or bad part numbers.")
-print("All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC\n")
-Q_doc_names = []
-Q_doc_numbers = []
-Q_doc_extensions = []
-Q_doc_revs = []
+#%% SETUP DOCUMENT NAMES AND CHECK FOR BAD PART NUMBERS...
 
-for name in Q_full_names:
+f.PrintLog("Checking all document names for bad formatting or bad part numbers.")
+f.PrintLog("All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC\n")
 
-    # CHECK LOGIC FOR DOCUMENT NUMBER - IS IT 8 DIGITS? ARE THEY ALL NUMBERS?
-    doc_number = name[0:8]
-    doc_extension = name.split('.')[-1]
+Q_doc_names = [name for name in Q_full_names if fEdgeCases.fEdgeCases(name)]    # filter the list of names that pass the fEdgeCases function with "true"
+Q_doc_numbers = [name[0:8] for name in Q_doc_names]                             # extract the part numbers from the first 8 digits
+Q_doc_extensions = [name.split('.')[-1] for name in Q_doc_names]                # extract the extension by separating by '.' and taking the last item in the list
+Q_doc_revs = [name.split()[1][1:-1] for name in Q_doc_names]                    # split by spaces, take the second entry [1] that should be a rev with a parenthasis, and the take out the parenthasis
 
-    # check that it's an integer
-    try: int(doc_number)
-    except: 
-        print("\tThe part {0} isn't an integer. Please reformat.".format(doc_number))
-        continue
-
-    # check that the number doesn't contain a space
-    if ' ' in doc_number:
-        print("\tThe part number {0} contains a space, or isn't 8 digits. Please reformat.".format(doc_number))
-        continue
-
-    doc_split = name.split()
-
-    # check that the file name is not a monolithic string
-    try: doc_split[1]
-    except:
-        print("\tThe part {0} is one single string. Please reformat.".format(doc_number))
-        continue
-
-    # check that the second entry in doc_split contains open/closed parenthesis
-    if ('(' or ')') not in doc_split[1]:
-        print("\tThe part {0}'s revision is not enclosed by (). Please reformat.".format(doc_number))
-        continue
-
-    # check that the part says (1) not (REV 1)
-    if 'R' in doc_split[1]:
-        print('\tPlease reformat {0} as (#) instead of (REV #) or (R#).'.format(doc_number))
-        continue
-    
-    doc_rev = doc_split[1][1:-1] #meant to remove the parenthesis from the revision
-    print(doc_rev,'!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
-    Q_doc_numbers.append(doc_number)
-    Q_doc_names.append(name)
-    Q_doc_extensions.append(doc_extension)
-    Q_doc_revs.append(doc_rev)
-
-print('\nAll document names checked for formatting...')
+f.PrintLog('\nAll document names checked for formatting...')
 input('Press any key to continue...')
 
-#%% Check unique document numbers
-os.system('clear')
-print("Checking documents for unique part numbers.")
+#%% CONDENSE ALL THE UNIQUE PART NUMBERS
+
+os.system('cls')
+f.PrintLog("Checking documents for unique part numbers.")
 Q_doc_numbers_unique = []
 for number in Q_doc_numbers:
 
-    # CHECK UNIQUE DOCUMENT NUMBERS - MOST DOCUMENTS ARE ARCHIVED WITH MULTIPLE FILES
+    # Check unique part numbers - most documents are archived in multiple formats (STEP and PDF)
     if number not in Q_doc_numbers_unique:
         Q_doc_numbers_unique.append(number)
 
-
-# print(Q_doc_numbers_unique)
-print('The Queue contains',len(Q_doc_numbers_unique),'unique part numbers to be processed.')
-print("Finished checking documents for unique part numbers.\n\n")
+# f.PrintLog(Q_doc_numbers_unique)
+f.PrintLog('The Queue contains '+ str(len(Q_doc_numbers_unique)) + ' unique part numbers to be processed.')
+f.PrintLog("Finished checking documents for unique part numbers.\n\n")
 input('Press any key to continue...')
 
-# %%
-os.system('clear')
+# %% FORM A QUEUE FROM ALL THE UNIQUE PART NUMBERS...
+
+# os.system('cls')
 print("Forming a Queue from unique part numbers, with dictionary of properties...")
 Queue = {}
 for u_number in Q_doc_numbers_unique:
@@ -108,33 +89,38 @@ for u_number in Q_doc_numbers_unique:
             fileInfo.append({
                 'number' : Q_doc_numbers[i],
                 'name' : Q_doc_names[i],
+                'description' : Q_doc_names[i].split(')')[-1].split('.')[0][1:],
                 'revision' : Q_doc_revs[i],
                 'extension' : Q_doc_extensions[i]
             })
     
     Queue[u_number] = fileInfo
-print('Finished forming Queue.\n\n')
+f.PrintLog('Finished forming Queue.\n\n')
 input('Press any key to continue...')
 
 # %% START MOVING FILES AND CREATING FOLDERS...
-os.system('clear')
-print('Moving files and creating new folders.')
+
+os.system('cls')
+f.PrintLog("""
+_______________________________________________\n
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+""")
+f.PrintLog('Moving files and creating new folders.')
 
 
 for u_number in Queue:
 
-    print('____Processing file {0}____\n'.format(u_number))
-
+    f.PrintLog('____Processing file {0}____\n'.format(u_number))
   
     # DCA Initial
     # need to create a new number for this folder
 
     if u_number not in A_folders: # if it's a completely new part number
         
-        print('\t{0} is a new number, and needs a new folder.'.format(u_number))
+        f.PrintLog('\t{0} is a new number, and needs a new folder.'.format(u_number))
         if not testing_mode: os.mkdir(pActive + '/' + u_number)
-        print('\t***New directory created in Active files.')
-
+        f.PrintLog('\t***New directory created in Active files.')
     
     # DCA ECO
     # need to move the existing document from it's active folder to obsolete
@@ -143,46 +129,92 @@ for u_number in Queue:
 
     else:
 
-        print('\t{0} already exists in the active files.'.format(u_number))
+        f.PrintLog('\t{0} already exists in the active files.'.format(u_number))
 
         if u_number not in O_folders: # if it doesn't yet have an obsolete folder
 
-            print('\t{0} needs an obsolete folder.'.format(u_number))
+            f.PrintLog('\t{0} needs an obsolete folder.'.format(u_number))
             if not testing_mode: os.mkdir(pObsolete + '/' + u_number)
-            print('\t***New directory created in Obsolete files.')
+            f.PrintLog('\t***New directory created in Obsolete files.')
         
         # MOVE FROM ACTIVE TO OBSOLETE
-        print('\tMoving the previous rev of {0} obsolete...'.format(u_number))
+        f.PrintLog('\tMoving the previous rev of {0} obsolete...'.format(u_number))
         files_to_obsolete = os.listdir(pActive + '/' + u_number)
 
         for each_file in files_to_obsolete:
-            print("\t\tMoving {0} from Active to Obsolete...".format(each_file))
+            f.PrintLog("\t\tMoving {0} from Active to Obsolete...".format(each_file))
             old_path = pActive + '/' + u_number + '/' + each_file
             new_path = pObsolete + '/' + u_number + '/' + each_file.upper()
             if not testing_mode: shutil.move(old_path, new_path) # <------- actually moves the file
 
 
     # MOVE FROM QUEUE TO ACTIVE
-    print('\tMoving {0} from the queue to active...'.format(u_number))
+    f.PrintLog('\tMoving {0} from the queue to active...'.format(u_number))
 
     for each_file in Queue[u_number]:
-        print("\t\tMoving {0} from Queue to Active".format(each_file['name']))
+        f.PrintLog("\t\tMoving {0} from Queue to Active".format(each_file['name']))
         old_path = pQueue + '/' + each_file['name']
         new_path = pActive + '/' + u_number + '/' + each_file['name'].upper()
         if not testing_mode: shutil.move(old_path, new_path) # <------- actually moves the file
     
-    print('\n')
+    f.PrintLog('\n')
     input('Press a key to continue...')
 
-print('Finished moving files and creating new folders.\n\n')
+f.PrintLog('Finished moving files and creating new folders.\n\n')
+input('Press a key to continue...')
+
+
+# %% LOOKUP EACH UNIQUE PART IN THE DOC CONTROL LOG, AND RETAIN THAT DATA.
+Email_Dict = fSendEmail.fBuildEmailList(pEmailList) # build the list of emails for each project
+Email_List = [] #start a blank list for unique emails
+
+for u_number in Queue:
+    f.PrintLog('\t\tLooking up P/N ' + u_number + ' in Doc Control Log. Please wait.')
+
+    log_doc_description, log_doc_type, log_doc_project, log_doc_user = fReadWriteLog.fReadLog(int(u_number),pDocControlLog)
+    f.PrintLog('\t\tFound ' + u_number + ' in Doc Control Log. Writing info.\n')
+    log_dict = {
+        'doc_description' : log_doc_description,
+        'doc_type' : log_doc_type,
+        'doc_project' : str(int(log_doc_project)),
+        'doc_user' : log_doc_user,
+        'doc_email' : fSendEmail.fRetrieveEmail(str(int(log_doc_project)),Email_Dict)
+    }
+
+    Queue[u_number].append(log_dict)
+    
+    for address in log_dict['doc_email']:
+        if address not in Email_List:
+            Email_List.append(address)
+    
+    
+# %% WRITE THE DOC CONTROL LOG WITH THE NEW REVISIONS AND DESCRIPTIONS FOR EACH PART...
+f.PrintLog('Writing file info to doc control log...\n')
+if not testing_mode: fReadWriteLog.fWriteLog(Queue,pDocControlLog)
+f.PrintLog('All set!\n')
+
+# %% SEND AN EMAIL TO INFORM EACH PERSON THEIR DOCUMENTS HAVE BEEN RELEASED...
+os.system('cls')
+f.PrintLog('Sending emails to notify each person of the REV change...')
+
+for address in Email_List:
+    if address != '':
+        f.PrintLog('\t\tSending an email to ' + address + '...')
+        notification_files = []
+
+        for u_number in Queue:
+            if address in Queue[u_number][-1]['doc_email']: 
+                notification_files.append(u_number + '        ' + Queue[u_number][0]['description'])
+
+        message = """<p>Hello,<br>
+                This message is to inform you that the following files have been released on the doc control server:<br><br>
+                """ + '<br>'.join(notification_files) + """<br><br>
+                This is an automated message.<br>
+                <br>
+                Thank you,<br>
+                Doc Control Robot</p>"""
+
+        if not testing_mode: fSendEmail.fSendEmail(address,message)
+
+f.PrintLog('Finished Sending Emails....\n\n')
 input('press any key to exit!')
-
-# %% 
-
-# add in functionality for the doc control log (XLSX)
-# add in a cross reference for project number in PDM search?
-# add in an email function
-# add in a document tracking function
-
-
-
