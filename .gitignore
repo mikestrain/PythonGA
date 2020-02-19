@@ -26,8 +26,40 @@ PROJECT/DOC CONTROL PROJECT/1 - DOCUMENT DROPBOX/
 PROJECT/DOC CONTROL PROJECT/2 - DOC CONTROL QUEUE/
 PROJECT/DOC CONTROL PROJECT/3 - ACTIVE FILES/
 PROJECT/DOC CONTROL PROJECT/4 - OBSOLETE FILES/
-
+PROJECT/DOC CONTROL PROJECT/!archive
+PROJECT/DOC CONTROL PROJECT/build
+PROJECT/DOC CONTROL PROJECT/dist
+PROJECT/DOC CONTROL PROJECT/__pycache__
 # *.PDF
 # *.STEP
 # *.STP
 PROJECT/DOC CONTROL PROJECT/Document Number Log 20161116.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 2020-02-13.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20161116 - Copy.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20161116.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200216_.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200217 - Copy.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200217.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200218.xls
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200219 - Copy (2).xls
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200219 - Copy.xls
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200219.xls
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200220.xls
+PROJECT/DOC CONTROL PROJECT/!archive/Document Number Log 20200221.xls
+PROJECT/DOC CONTROL PROJECT/!archive/Doc_Control_Cleark_Log.txt
+PROJECT/DOC CONTROL PROJECT/!archive/test_file.xlsx
+PROJECT/DOC CONTROL PROJECT/!archive/test.xls
+PROJECT/DOC CONTROL PROJECT/Document Number Log 20200221.xls
+CLASS16/HOMEWORK/25-lab-slides.md
+CLASS16/HOMEWORK/NBA_players_2015.csv
+CLASS16/HOMEWORK/only-if-api-down-movie-ratings.csv
+CLASS16/HOMEWORK/movie_app (6).py
+CLASS16/HOMEWORK/pandas_intro_hw.ipynb
+CLASS16/HOMEWORK/pandas_intro_hw.py
+CLASS16/HOMEWORK/pandas_plotting_hw.ipynb
+CLASS16/HOMEWORK/pandas_plotting_hw.py
+CLASS16/HOMEWORK/scatterplot_matrix2.py
+CLASS16/scatterplot_matrix.py
+PROJECT/Mike Strain Project Report - Python 6.pptx
+PROJECT/DOC CONTROL PROJECT/Project_Email_List.txt
+PROJECT/DOC CONTROL PROJECT/Doc_Control_Clerk.spec

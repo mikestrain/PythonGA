@@ -1,0 +1,3085 @@
+Today is 2020/02/17 21:30:22
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Today is 2020/02/17 21:31:10
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Today is 2020/02/17 21:31:46
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+_______________________________________________
+
+MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (1) TEST PART #1.pdf from Queue to Active
+		Moving 70019590 (1) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (1) TEST PART #2.pdf from Queue to Active
+		Moving 70019591 (1) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (1) TEST PART #3.pdf from Queue to Active
+		Moving 70019592 (1) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (1) TEST PART #7.pdf from Queue to Active
+		Moving 70019596 (1) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (1) TEST PART #8.pdf from Queue to Active
+		Moving 70019597 (1) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/17 21:38:13
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+_______________________________________________
+
+MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (1) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (1) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (1) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (1) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (1) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (1) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (1) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (1) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 is a new number, and needs a new folder.
+	***New directory created in Active files.
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (1) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (1) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/17 21:41:34
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Today is 2020/02/17 21:44:32
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Today is 2020/02/17 21:45:25
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+_______________________________________________
+
+MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	70019590 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (1) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (1) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	70019591 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (1) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (1) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	70019592 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (1) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (1) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	70019596 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (1) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (1) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	70019597 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (1) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (1) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/17 22:03:20
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 0 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+_______________________________________________
+
+MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Finished moving files and creating new folders.
+
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/17 22:05:03
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 2 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+_______________________________________________
+
+MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (3) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (3) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (3) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (3) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/17 22:08:05
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 2 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+_______________________________________________
+
+MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (4) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (4) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (3) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (3) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (4) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (4) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 07:10:21
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Today is 2020/02/18 07:10:42
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 2 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (4) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (4) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (5) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (5) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (4) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (4) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (5) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (5) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 07:13:46
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 0 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Finished moving files and creating new folders.
+
+
+Today is 2020/02/18 07:15:51
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (3) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (3) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (5) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (5) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (5) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (5) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Today is 2020/02/18 07:19:40
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 07:20:44
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 0 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Finished moving files and creating new folders.
+
+
+Today is 2020/02/18 07:21:35
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Today is 2020/02/18 07:23:19
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 0 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Finished moving files and creating new folders.
+
+
+Today is 2020/02/18 07:24:05
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Today is 2020/02/18 07:28:04
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Today is 2020/02/18 07:31:22
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 16:33:40
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Today is 2020/02/18 16:34:16
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 16:37:05
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+_______________________________________________
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 16:39:56
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+_______________________________________________
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/18 19:32:35
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 11 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018173____
+
+	70018173 already exists in the active files.
+	70018173 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018173 obsolete...
+		Moving 70018173 (1) CM CATHODE, SHAFT COLLAR.pdf from Active to Obsolete...
+		Moving 70018173 (1) CM CATHODE, SHAFT COLLAR.STEP from Active to Obsolete...
+		Moving New folder from Active to Obsolete...
+	Moving 70018173 from the queue to active...
+		Moving 70018173 (2) CM CATHODE, SHAFT COLLAR.pdf from Queue to Active
+		Moving 70018173 (2) CM CATHODE, SHAFT COLLAR.STEP from Queue to Active
+
+
+____Processing file 70018206____
+
+	70018206 already exists in the active files.
+	Moving the previous rev of 70018206 obsolete...
+		Moving 70018206 (2) GEN 4 MICROVALVE, STEM.pdf from Active to Obsolete...
+		Moving 70018206 (2) GEN 4 MICROVALVE, STEM.STEP from Active to Obsolete...
+	Moving 70018206 from the queue to active...
+		Moving 70018206 (3) GEN 4 MICROVALVE, STEM.pdf from Queue to Active
+		Moving 70018206 (3) GEN 4 MICROVALVE, STEM.STEP from Queue to Active
+
+
+____Processing file 70018212____
+
+	70018212 already exists in the active files.
+	70018212 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018212 obsolete...
+		Moving 70018212 (1) GEN 4 MICROVALVE, PIEZO ASSEMBLY.pdf from Active to Obsolete...
+	Moving 70018212 from the queue to active...
+		Moving 70018212 (2) GEN 4 MICROVALVE, PIEZO ASSEMBLY.pdf from Queue to Active
+
+
+____Processing file 70018248____
+
+	70018248 already exists in the active files.
+	Moving the previous rev of 70018248 obsolete...
+		Moving 70018248 (4) STEM DIAPHRAGM, VOLUME COMPENSATOR.pdf from Active to Obsolete...
+		Moving 70018248 (4) STEM DIAPHRAGM, VOLUME COMPENSATOR.STEP from Active to Obsolete...
+	Moving 70018248 from the queue to active...
+		Moving 70018248 (5) STEM DIAPHRAGM, VOLUME COMPENSATOR.pdf from Queue to Active
+		Moving 70018248 (5) STEM DIAPHRAGM, VOLUME COMPENSATOR.STEP from Queue to Active
+
+
+____Processing file 70018339____
+
+	70018339 already exists in the active files.
+	70018339 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018339 obsolete...
+		Moving 70018339 (1) NUT.pdf from Active to Obsolete...
+		Moving 70018339 (1) NUT.STEP from Active to Obsolete...
+	Moving 70018339 from the queue to active...
+		Moving 70018339 (2) NUT.pdf from Queue to Active
+		Moving 70018339 (2) NUT.STEP from Queue to Active
+
+
+____Processing file 70018902____
+
+	70018902 already exists in the active files.
+	70018902 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018902 obsolete...
+		Moving 70018902 (1) currentSenseboard.pcb from Active to Obsolete...
+		Moving 70018902 (1) PCB, CURRENT SENSE.pdf from Active to Obsolete...
+	Moving 70018902 from the queue to active...
+		Moving 70018902 (2) currentSenseboard.pcb from Queue to Active
+		Moving 70018902 (2) PCB, CURRENT SENSE.pdf from Queue to Active
+
+
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (3) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (3) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (3) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (3) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (3) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (3) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (3) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (3) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (3) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (3) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+Today is 2020/02/18 19:34:26
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 11 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018173____
+
+	70018173 already exists in the active files.
+	70018173 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018173 obsolete...
+		Moving 70018173 (1) CM CATHODE, SHAFT COLLAR.pdf from Active to Obsolete...
+		Moving 70018173 (1) CM CATHODE, SHAFT COLLAR.STEP from Active to Obsolete...
+		Moving New folder from Active to Obsolete...
+	Moving 70018173 from the queue to active...
+		Moving 70018173 (2) CM CATHODE, SHAFT COLLAR.pdf from Queue to Active
+		Moving 70018173 (2) CM CATHODE, SHAFT COLLAR.STEP from Queue to Active
+
+
+____Processing file 70018206____
+
+	70018206 already exists in the active files.
+	Moving the previous rev of 70018206 obsolete...
+		Moving 70018206 (2) GEN 4 MICROVALVE, STEM.pdf from Active to Obsolete...
+		Moving 70018206 (2) GEN 4 MICROVALVE, STEM.STEP from Active to Obsolete...
+	Moving 70018206 from the queue to active...
+		Moving 70018206 (3) GEN 4 MICROVALVE, STEM.pdf from Queue to Active
+		Moving 70018206 (3) GEN 4 MICROVALVE, STEM.STEP from Queue to Active
+
+
+____Processing file 70018212____
+
+	70018212 already exists in the active files.
+	70018212 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018212 obsolete...
+		Moving 70018212 (1) GEN 4 MICROVALVE, PIEZO ASSEMBLY.pdf from Active to Obsolete...
+	Moving 70018212 from the queue to active...
+		Moving 70018212 (2) GEN 4 MICROVALVE, PIEZO ASSEMBLY.pdf from Queue to Active
+
+
+____Processing file 70018248____
+
+	70018248 already exists in the active files.
+	Moving the previous rev of 70018248 obsolete...
+		Moving 70018248 (4) STEM DIAPHRAGM, VOLUME COMPENSATOR.pdf from Active to Obsolete...
+		Moving 70018248 (4) STEM DIAPHRAGM, VOLUME COMPENSATOR.STEP from Active to Obsolete...
+	Moving 70018248 from the queue to active...
+		Moving 70018248 (5) STEM DIAPHRAGM, VOLUME COMPENSATOR.pdf from Queue to Active
+		Moving 70018248 (5) STEM DIAPHRAGM, VOLUME COMPENSATOR.STEP from Queue to Active
+
+
+____Processing file 70018339____
+
+	70018339 already exists in the active files.
+	70018339 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018339 obsolete...
+		Moving 70018339 (1) NUT.pdf from Active to Obsolete...
+		Moving 70018339 (1) NUT.STEP from Active to Obsolete...
+	Moving 70018339 from the queue to active...
+		Moving 70018339 (2) NUT.pdf from Queue to Active
+		Moving 70018339 (2) NUT.STEP from Queue to Active
+
+
+____Processing file 70018902____
+
+	70018902 already exists in the active files.
+	70018902 needs an obsolete folder.
+	***New directory created in Obsolete files.
+	Moving the previous rev of 70018902 obsolete...
+		Moving 70018902 (1) currentSenseboard.pcb from Active to Obsolete...
+		Moving 70018902 (1) PCB, CURRENT SENSE.pdf from Active to Obsolete...
+	Moving 70018902 from the queue to active...
+		Moving 70018902 (2) currentSenseboard.pcb from Queue to Active
+		Moving 70018902 (2) PCB, CURRENT SENSE.pdf from Queue to Active
+
+
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (3) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (3) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (3) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (3) TEST PART #2.STEP from Queue to Active
+
+
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (2) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (2) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (3) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (3) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (2) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (2) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (3) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (3) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (3) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (3) TEST PART #8.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70018173 in Doc Control Log. Please wait.
+		Found 70018173 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018206 in Doc Control Log. Please wait.
+		Found 70018206 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018212 in Doc Control Log. Please wait.
+		Found 70018212 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018248 in Doc Control Log. Please wait.
+		Found 70018248 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018339 in Doc Control Log. Please wait.
+		Found 70018339 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018902 in Doc Control Log. Please wait.
+		Found 70018902 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+		Sending an email to mstrain@busek.com...
+Finished Sending Emails....
+
+
+Today is 2020/02/19 10:29:04
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Today is 2020/02/19 10:29:20
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 6 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Today is 2020/02/19 10:30:28
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 6 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Today is 2020/02/19 10:31:59
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 6 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018237____
+
+	70018237 already exists in the active files.
+	70018237 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018237 obsolete...
+		Moving 70018237 CMNT Thruster Assembly Instructions.docx from Active to Obsolete...
+	Moving 70018237 from the queue to active...
+		Moving 70018237 (1) CMNT Thruster Assembly Instructions.docx from Queue to Active
+
+
+The file {0} has been skipped for processing. Moving on to the next file.
+Today is 2020/02/19 10:32:37
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 6 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018237____
+
+	70018237 already exists in the active files.
+	70018237 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018237 obsolete...
+		Moving 70018237 CMNT Thruster Assembly Instructions.docx from Active to Obsolete...
+	Moving 70018237 from the queue to active...
+		Moving 70018237 (1) CMNT Thruster Assembly Instructions.docx from Queue to Active
+
+
+____Processing file 70018261____
+
+	70018261 already exists in the active files.
+	Moving the previous rev of 70018261 obsolete...
+		Moving 70018261 (REV 2) DIAPHRAGM AND BASE ASSEMBLY, ACCUMULATOR.pdf from Active to Obsolete...
+		Moving 70018261 (REV 2) DIAPHRAGM AND BASE ASSEMBLY, ACCUMULATOR.STEP from Active to Obsolete...
+	Moving 70018261 from the queue to active...
+		Moving 70018261 (3) DIAPHRAGM AND BASE ASSEMBLY, ACCUMULATOR.pdf from Queue to Active
+		Moving 70018261 (3) DIAPHRAGM AND BASE ASSEMBLY, ACCUMULATOR.STEP from Queue to Active
+
+
+____Processing file 70018399____
+
+	70018399 already exists in the active files.
+	70018399 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018399 obsolete...
+		Moving 70018399 REV 1 August 2018 Status Report.pdf from Active to Obsolete...
+		Moving 70018399 REV 1 August 2018 Status Report.pptx from Active to Obsolete...
+	Moving 70018399 from the queue to active...
+		Moving 70018399 (2) August 2018 Status Report.pdf from Queue to Active
+		Moving 70018399 (2) August 2018 Status Report.pptx from Queue to Active
+
+
+The file {0} has been skipped for processing. Moving on to the next file.
+Today is 2020/02/19 11:15:29
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 4 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018399____
+
+	70018399 already exists in the active files.
+	70018399 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018399 obsolete...
+		Moving 70018399 REV 1 August 2018 Status Report.pdf from Active to Obsolete...
+		Moving 70018399 REV 1 August 2018 Status Report.pptx from Active to Obsolete...
+	Moving 70018399 from the queue to active...
+		Moving 70018399 (2) August 2018 Status Report.pdf from Queue to Active
+		Moving 70018399 (2) August 2018 Status Report.pptx from Queue to Active
+
+
+The file 70018399 has been skipped for processing. Moving on to the next file.
+____Processing file 70018410____
+
+	70018410 already exists in the active files.
+	70018410 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018410 obsolete...
+		Moving 70018410 (1) ANODE HEATER POWER CONNECTOR.pdf from Active to Obsolete...
+		Moving 70018410 (1) ANODE HEATER POWER CONNECTOR.STEP from Active to Obsolete...
+	Moving 70018410 from the queue to active...
+		Moving 70018410 (2) ANODE HEATER POWER CONNECTOR.pdf from Queue to Active
+		Moving 70018410 (2) ANODE HEATER POWER CONNECTOR.STEP from Queue to Active
+
+
+____Processing file 70018527____
+
+	70018527 already exists in the active files.
+	Moving the previous rev of 70018527 obsolete...
+		Moving 70018527 (REV 2) FIXTURE, BASE, PIEZO VALIDATION.pdf from Active to Obsolete...
+		Moving 70018527 (REV 2) FIXTURE, BASE, PIEZO VALIDATION.STEP from Active to Obsolete...
+	Moving 70018527 from the queue to active...
+		Moving 70018527 (3) FIXTURE, BASE, PIEZO VALIDATION.pdf from Queue to Active
+		Moving 70018527 (3) FIXTURE, BASE, PIEZO VALIDATION.STEP from Queue to Active
+
+
+____Processing file 70019140____
+
+	70019140 already exists in the active files.
+	70019140 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70019140 obsolete...
+		Moving 70019140 (REV 1) FIXTURE, TIP-TILT.pdf from Active to Obsolete...
+		Moving 70019140 (REV 1) FIXTURE, TIP-TILT.STEP from Active to Obsolete...
+	Moving 70019140 from the queue to active...
+		Moving 70019140 (2) FIXTURE, TIP-TILT.pdf from Queue to Active
+		Moving 70019140 (2) FIXTURE, TIP-TILT.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70018399 in Doc Control Log. Please wait.
+		Found 70018399 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018410 in Doc Control Log. Please wait.
+		Found 70018410 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018527 in Doc Control Log. Please wait.
+		Found 70018527 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019140 in Doc Control Log. Please wait.
+		Found 70019140 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/19 11:22:55
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 7 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018209____
+
+	70018209 already exists in the active files.
+	70018209 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018209 obsolete...
+		Moving 70018209 (1) GEN 4 MICROVALVE, WASHER, COMPRESSION.pdf from Active to Obsolete...
+		Moving 70018209 (1) GEN 4 MICROVALVE, WASHER, COMPRESSION.STEP from Active to Obsolete...
+	Moving 70018209 from the queue to active...
+		Moving 70018209 (2) GEN 4 MICROVALVE, WASHER, COMPRESSION.pdf from Queue to Active
+		Moving 70018209 (2) GEN 4 MICROVALVE, WASHER, COMPRESSION.STEP from Queue to Active
+
+
+____Processing file 70018255____
+
+	70018255 already exists in the active files.
+	70018255 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018255 obsolete...
+		Moving 70018255 (1) LOWER INSULATOR, ISOLATED RING PIEZO.pdf from Active to Obsolete...
+		Moving 70018255 (1) LOWER INSULATOR, ISOLATED RING PIEZO.STEP from Active to Obsolete...
+	Moving 70018255 from the queue to active...
+		Moving 70018255 (2) LOWER INSULATOR, ISOLATED RING PIEZO.pdf from Queue to Active
+		Moving 70018255 (2) LOWER INSULATOR, ISOLATED RING PIEZO.STEP from Queue to Active
+
+
+____Processing file 70018358____
+
+	70018358 already exists in the active files.
+	70018358 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018358 obsolete...
+		Moving 70018358 REV1 February 2018 Status Report.pdf from Active to Obsolete...
+		Moving 70018358 REV1 February 2018 Status Report.pptx from Active to Obsolete...
+	Moving 70018358 from the queue to active...
+		Moving 70018358 (2) February 2018 Status Report.pdf from Queue to Active
+		Moving 70018358 (2) February 2018 Status Report.pptx from Queue to Active
+
+
+____Processing file 70018382____
+
+	70018382 already exists in the active files.
+	70018382 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018382 obsolete...
+		Moving 70018382_REV1_CMTS_Design_Guidelines.docx from Active to Obsolete...
+		Moving 70018382_REV1_CMTS_Design_Guidelines.pdf from Active to Obsolete...
+	Moving 70018382 from the queue to active...
+		Moving 70018382 (2) CMTS_Design_Guidelines.docx from Queue to Active
+		Moving 70018382 (2) CMTS_Design_Guidelines.pdf from Queue to Active
+
+
+____Processing file 70018399____
+
+	70018399 already exists in the active files.
+	70018399 needs an obsolete folder.
+	***New directory will be created in Obsolete files.
+	Moving the previous rev of 70018399 obsolete...
+		Moving 70018399 REV 1 August 2018 Status Report.pdf from Active to Obsolete...
+		Moving 70018399 REV 1 August 2018 Status Report.pptx from Active to Obsolete...
+	Moving 70018399 from the queue to active...
+		Moving 70018399 (2) August 2018 Status Report.pdf from Queue to Active
+		Moving 70018399 (2) August 2018 Status Report.pptx from Queue to Active
+
+
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (3) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (3) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (3) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (3) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70018209 in Doc Control Log. Please wait.
+		Found 70018209 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018255 in Doc Control Log. Please wait.
+		Found 70018255 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018358 in Doc Control Log. Please wait.
+		Found 70018358 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018382 in Doc Control Log. Please wait.
+		Found 70018382 in Doc Control Log. Writing info.
+
+		Looking up P/N 70018399 in Doc Control Log. Please wait.
+		Found 70018399 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Today is 2020/02/19 13:03:18
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 7 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018358____
+
+	70018358 already exists in the active files.
+	Moving the previous rev of 70018358 obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PDF from Active to Obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PPTX from Active to Obsolete...
+	Moving 70018358 from the queue to active...
+		Moving 70018358 (2) February 2018 Status Report.pdf from Queue to Active
+		Moving 70018358 (2) February 2018 Status Report.pptx from Queue to Active
+
+
+The file 70018358 has been skipped for processing. Moving on to the next file.
+Today is 2020/02/19 13:04:23
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 7 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018358____
+
+	70018358 already exists in the active files.
+	Moving the previous rev of 70018358 obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PDF from Active to Obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PPTX from Active to Obsolete...
+	Moving 70018358 from the queue to active...
+		Moving 70018358 (2) February 2018 Status Report.pdf from Queue to Active
+		Moving 70018358 (2) February 2018 Status Report.pptx from Queue to Active
+
+
+The file 70018358 has been skipped for processing. Moving on to the next file.
+Today is 2020/02/19 13:07:31
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 7 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018358____
+
+	70018358 already exists in the active files.
+	Moving the previous rev of 70018358 obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PDF from Active to Obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PPTX from Active to Obsolete...
+	Moving 70018358 from the queue to active...
+		Moving 70018358 (2) February 2018 Status Report.pdf from Queue to Active
+		Moving 70018358 (2) February 2018 Status Report.pptx from Queue to Active
+
+
+The file 70018358 has been skipped for processing. Moving on to the next file.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+The file 70019590 has been skipped for processing. Moving on to the next file.
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+The file 70019591 has been skipped for processing. Moving on to the next file.
+____Processing file 70019592____
+
+	70019592 already exists in the active files.
+	Moving the previous rev of 70019592 obsolete...
+		Moving 70019592 (3) TEST PART #3.PDF from Active to Obsolete...
+		Moving 70019592 (3) TEST PART #3.STEP from Active to Obsolete...
+	Moving 70019592 from the queue to active...
+		Moving 70019592 (2) TEST PART #3.PDF from Queue to Active
+		Moving 70019592 (2) TEST PART #3.STEP from Queue to Active
+
+
+____Processing file 70019596____
+
+	70019596 already exists in the active files.
+	Moving the previous rev of 70019596 obsolete...
+		Moving 70019596 (3) TEST PART #7.PDF from Active to Obsolete...
+		Moving 70019596 (3) TEST PART #7.STEP from Active to Obsolete...
+	Moving 70019596 from the queue to active...
+		Moving 70019596 (2) TEST PART #7.PDF from Queue to Active
+		Moving 70019596 (2) TEST PART #7.STEP from Queue to Active
+
+
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (3) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (3) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+____Processing file 70060002____
+
+	70060002 already exists in the active files.
+	Moving the previous rev of 70060002 obsolete...
+	Moving 70060002 from the queue to active...
+		Moving 70060002 (A) Lifting and Hoisting Procedure.docx from Queue to Active
+		Moving 70060002 (A) Lifting and Hoisting Procedure.pdf from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70019592 in Doc Control Log. Please wait.
+		Found 70019592 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019596 in Doc Control Log. Please wait.
+		Found 70019596 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+		Looking up P/N 70060002 in Doc Control Log. Please wait.
+		Found 70060002 in Doc Control Log. Writing info.
+
+Today is 2020/02/19 13:09:46
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 5 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018358____
+
+	70018358 already exists in the active files.
+	Moving the previous rev of 70018358 obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PDF from Active to Obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PPTX from Active to Obsolete...
+	Moving 70018358 from the queue to active...
+		Moving 70018358 (2) February 2018 Status Report.pdf from Queue to Active
+		Moving 70018358 (2) February 2018 Status Report.pptx from Queue to Active
+
+
+The file 70018358 has been skipped for processing. Moving on to the next file.
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+The file 70019590 has been skipped for processing. Moving on to the next file.
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+The file 70019591 has been skipped for processing. Moving on to the next file.
+____Processing file 70019597____
+
+	70019597 already exists in the active files.
+	Moving the previous rev of 70019597 obsolete...
+		Moving 70019597 (2) TEST PART #8.PDF from Active to Obsolete...
+		Moving 70019597 (2) TEST PART #8.STEP from Active to Obsolete...
+	Moving 70019597 from the queue to active...
+		Moving 70019597 (2) TEST PART #8.PDF from Queue to Active
+		Moving 70019597 (2) TEST PART #8.STEP from Queue to Active
+
+
+____Processing file 70060002____
+
+	70060002 already exists in the active files.
+	Moving the previous rev of 70060002 obsolete...
+		Moving 70060002 (A) LIFTING AND HOISTING PROCEDURE.DOCX from Active to Obsolete...
+		Moving 70060002 (A) LIFTING AND HOISTING PROCEDURE.PDF from Active to Obsolete...
+	Moving 70060002 from the queue to active...
+		Moving 70060002 (A) Lifting and Hoisting Procedure.docx from Queue to Active
+		Moving 70060002 (A) Lifting and Hoisting Procedure.pdf from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70019597 in Doc Control Log. Please wait.
+		Found 70019597 in Doc Control Log. Writing info.
+
+		Looking up P/N 70060002 in Doc Control Log. Please wait.
+		Found 70060002 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to mstrain@busek.com...
+Today is 2020/02/19 13:20:06
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 3 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018358____
+
+	70018358 already exists in the active files.
+	Moving the previous rev of 70018358 obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PDF from Active to Obsolete...
+		Moving 70018358 (2) FEBRUARY 2018 STATUS REPORT.PPTX from Active to Obsolete...
+	Moving 70018358 from the queue to active...
+		Moving 70018358 (2) February 2018 Status Report.pdf from Queue to Active
+		Moving 70018358 (2) February 2018 Status Report.pptx from Queue to Active
+
+
+____Processing file 70019590____
+
+	70019590 already exists in the active files.
+	Moving the previous rev of 70019590 obsolete...
+		Moving 70019590 (2) TEST PART #1.PDF from Active to Obsolete...
+		Moving 70019590 (2) TEST PART #1.STEP from Active to Obsolete...
+	Moving 70019590 from the queue to active...
+		Moving 70019590 (2) TEST PART #1.PDF from Queue to Active
+		Moving 70019590 (2) TEST PART #1.STEP from Queue to Active
+
+
+____Processing file 70019591____
+
+	70019591 already exists in the active files.
+	Moving the previous rev of 70019591 obsolete...
+		Moving 70019591 (2) TEST PART #2.PDF from Active to Obsolete...
+		Moving 70019591 (2) TEST PART #2.STEP from Active to Obsolete...
+	Moving 70019591 from the queue to active...
+		Moving 70019591 (2) TEST PART #2.PDF from Queue to Active
+		Moving 70019591 (2) TEST PART #2.STEP from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70018358 in Doc Control Log. Please wait.
+		Found 70018358 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019590 in Doc Control Log. Please wait.
+		Found 70019590 in Doc Control Log. Writing info.
+
+		Looking up P/N 70019591 in Doc Control Log. Please wait.
+		Found 70019591 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+		Sending an email to michael.e.strain@gmail.com...
+Today is 2020/02/19 13:32:31
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 0 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+
+Today is 2020/02/19 13:33:22
+_______________________________________________
+
+WELCOME TO THE BUSEK DOC CONTROL CLERK PROGRAM.
+Written by Mike Strain on 2/2/2020.
+_______________________________________________
+
+ - Meant to check file name formatting, and move files around to appropriate folders.
+ - Capitalizes files if they are in lowercase
+
+Checking all document names for bad formatting or bad part numbers.
+All documents should follow the format 700XXXX (X) DESCRIPTION, PART, ETC
+
+
+All document names checked for formatting...
+Checking documents for unique part numbers.
+The Queue contains 1 unique part numbers to be processed.
+Finished checking documents for unique part numbers.
+
+
+Forming a Queue from unique part numbers, with dictionary of properties...
+Finished forming Queue.
+
+
+
+_______________________________________________
+
+       MOVING FILES INTO DOC CONTROL....
+_______________________________________________
+
+Moving files and creating new folders.
+____Processing file 70018631____
+
+	70018631 already exists in the active files.
+	Moving the previous rev of 70018631 obsolete...
+	Moving 70018631 from the queue to active...
+		Moving 70018631 (2) 1335 Quarterly Status Report #1.docx from Queue to Active
+		Moving 70018631 (2) 1335 Quarterly Status Report #1.pdf from Queue to Active
+
+
+Finished moving files and creating new folders.
+
+
+
+_______________________________________________
+
+      READING AND WRITING DOC CONTROL LOG
+                    & 
+         SENDING NOTIFICATION EMAILS
+_______________________________________________
+
+		Looking up P/N 70018631 in Doc Control Log. Please wait.
+		Found 70018631 in Doc Control Log. Writing info.
+
+Writing file info to doc control log...
+
+All set!
+
+Sending emails to notify each person of the REV change...
+Finished Sending Emails....
+
+

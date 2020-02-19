@@ -18,12 +18,14 @@ def fSendEmail(Email_List,message_content):
         html_content=message_content)
     try:
         sg = SendGridAPIClient(Busek_API_Key)
+        input("waiting")
         response = sg.send(message)
         # print(response.status_code)
         # print(response.body)
         # print(response.headers)
     except Exception as e:
         print(e.message)
+        print('Do you have internet access?')
 
 
 def fBuildEmailList(loc):
@@ -50,12 +52,3 @@ def fRetrieveEmail(project,Email_Dict):
         return emails
     except:
         return ['']
-
-ED = {'1295': ['mstrain@busek.com', 'michael.e.strain@gmail.com'],
- '1310': ['michael.e.strain@gmail.com'],
- '1354': ['mstrain@busek.com'],
- '1349': ['michael.e.strain@gmail.com', 'mstrain@busek.com']}
-
-project = '1310'
-
-print(fRetrieveEmail(project,ED))

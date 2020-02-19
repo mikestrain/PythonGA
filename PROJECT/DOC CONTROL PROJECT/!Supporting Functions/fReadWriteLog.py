@@ -34,18 +34,12 @@ def fReadLog(number_to_search,loc):
             log_doc_user = sheet.cell_value(excel_index,5)
 
         except:
-            print('Could not find part number in doc control log. Might be a facilities part.')
+            print('\t\tCould not find part number in doc control log. Might be a facilities part.')
             log_doc_description = ''
             log_doc_type = ''
             log_doc_project = ''
             log_doc_user = ''
             log_doc_email = ''
-
-    # print(log_doc_description)
-    # print(log_doc_type)
-    # print(log_doc_email)
-    # print(log_doc_user)
-    # print('Column index in excel is',excel_index)
 
     return log_doc_description, log_doc_type, log_doc_project, log_doc_user
 
